@@ -1,0 +1,9 @@
+p.center.red-text {
+    margin: 100px 20px;
+    border: 1px solid red;
+    padding: 1em;
+}
+
+p.center .red-text{
+    color: red;
+}
